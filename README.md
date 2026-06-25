@@ -3,7 +3,7 @@
 Senior Software Engineer with 7+ years of experience building scalable backend systems, microservices, and event-driven distributed architectures.
 
 ## What I work on
-- Java, Spring Boot, Kafka
+- Python, Java, Spring Boot, Kafka
 - Distributed systems and backend platform engineering
 - Elasticsearch, Redis, PostgreSQL, MySQL
 - Docker, Kubernetes, AWS, GCP

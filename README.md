@@ -1,4 +1,4 @@
-# Hi, I'm Shivam Parashar 👋
+# Hi, I'm Shivam 👋
 
 Senior Software Engineer with 7+ years of experience building scalable backend systems, microservices, and event-driven distributed architectures.
 
